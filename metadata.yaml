@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6690'
     url: http://www.gutenberg.org/2009/agents/6690
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16417#Spadacrene-Anglica--The-English-Spa-Fountain
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2005-08-02'
 gutenberg_type: Text
