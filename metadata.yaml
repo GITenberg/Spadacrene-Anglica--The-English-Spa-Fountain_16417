@@ -1,0 +1,36 @@
+_repo: Spadacrene-Anglica--The-English-Spa-Fountain_16417
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Rutherford, James
+    gutenberg_agent_id: '6691'
+    url: http://www.gutenberg.org/2009/agents/6691
+  - agent_name: Butler, Alexander
+    gutenberg_agent_id: '6692'
+    url: http://www.gutenberg.org/2009/agents/6692
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deane, Edmund
+    alias: Dean, Edmund
+    deathdate: 1640
+    gutenberg_agent_id: '6690'
+    url: http://www.gutenberg.org/2009/agents/6690
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2005-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Health resorts'
+- !lcc 'RA'
+- !lcsh 'Mineral waters -- England -- Harrogate -- Early works to 1800'
+title: 'Spadacrene Anglica: The English Spa Fountain'
+url: http://www.gutenberg.org/ebooks/16417
